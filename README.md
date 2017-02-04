@@ -24,7 +24,9 @@ An Arduino project that serves as an electronic dice and count down timer.
 
 ## Enclosure 
 Outside
+
 ![Image](../master/design/enclosure/diceholder2.PNG?raw=true)
 
 Inside
-![Image](../master//design/enclosure/diceholder2_inside.PNG?raw=true)
+
+![Image](../master/design/enclosure/diceholder2_inside.PNG?raw=true)
